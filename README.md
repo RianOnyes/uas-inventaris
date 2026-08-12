@@ -3,7 +3,7 @@
 Program CLI (command line) sederhana untuk mengelola data barang inventaris toko,
 dibuat dengan konsep **Modular** dan **OOP** (pemisahan class Data, View, dan Process).
 
-## 📌 Deskripsi Program
+##  Deskripsi Program
 Program ini memungkinkan pengguna untuk:
 - Menambahkan data barang (nama, harga, stok)
 - Melihat seluruh data barang dalam bentuk tabel
@@ -12,7 +12,7 @@ Program ini memungkinkan pengguna untuk:
 - Validasi input menggunakan konsep exception (custom exception), sehingga
   program tidak crash ketika user salah memasukkan data (misalnya huruf pada kolom harga).
 
-## 🧩 Struktur Modular (OOP)
+##  Struktur Modular (OOP)
 | File            | Peran                                                            |
 |-----------------|-------------------------------------------------------------------|
 | `data.py`       | **Class Data** — struktur/model data `Barang`                     |
@@ -21,7 +21,7 @@ Program ini memungkinkan pengguna untuk:
 | `exceptions.py` | Custom exception untuk validasi input                             |
 | `main.py`       | Entry point, menghubungkan Data–View–Process                      |
 
-## ▶️ Cara Menjalankan
+##  Cara Menjalankan
 1. Pastikan Python 3 sudah terinstal.
 2. Clone repository ini:
    ```
