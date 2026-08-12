@@ -34,11 +34,4 @@ Program ini memungkinkan pengguna untuk:
    ```
 4. Ikuti menu yang tampil di layar (1–5).
 
-## 🎥 Dokumentasi & Video Demo
-- Video penjelasan & proses pembuatan program (menampilkan wajah presenter): **[ISI LINK YOUTUBE DI SINI]**
-- Video demo program berjalan: **[ISI LINK YOUTUBE / bisa digabung dengan video di atas]**
 
-## 👤 Identitas
-- Nama: [ISI NAMA KAMU]
-- NIM: [ISI NIM KAMU]
-- Mata Kuliah: Bahasa Pemrograman
